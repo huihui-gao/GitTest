@@ -1,6 +1,7 @@
 export class TTT {
-  name: string;
+  name: string
   constructor() {
-    this.name = "lina";
+    this.name = 'lina'
+    console.log('b改动')
   }
 }
